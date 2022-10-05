@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ABAP Projects
-- 🌱 I’m currently learning Software Engineering
+- 🔭 I’m currently working on ABAP Projects and learning Software Engineering
 
 <div align="center">
   <a href="https://github.com/gabriel-tabatinga">
